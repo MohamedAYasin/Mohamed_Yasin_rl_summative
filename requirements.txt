@@ -1,0 +1,14 @@
+stable-baselines3==2.2.1  
+gymnasium==0.29.1  
+
+# Environment Rendering  
+pygame==2.5.0  
+PyOpenGL==3.1.7  
+PyOpenGL-accelerate==3.1.7  
+
+# Image Handling (for textures like school icon)  
+Pillow==10.2.0  
+
+# Other Utilities (optional)  
+numpy==1.26.4  
+matplotlib==3.8.3  
