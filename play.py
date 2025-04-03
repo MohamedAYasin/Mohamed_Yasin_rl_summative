@@ -43,7 +43,7 @@ def get_greedy_action(env):
         return 2  # Move Up
     elif ay > sy:
         return 3  # Move Down
-    return 1  # Default to Right (should not happen)
+    return 1  
 
 def play():
     
@@ -88,8 +88,8 @@ def play():
             state.total_reward = 0.0
             state.steps = 0
             state.ep_start_time = time.time()
-            state.exploration_steps = 7  # Reset exploration steps
-            state.exploring = True  # Start exploration again
+            state.exploration_steps = 7  
+            state.exploring = True  
 
     pygame.quit()
 
