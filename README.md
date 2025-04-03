@@ -43,6 +43,18 @@ The AI tutor selects actions to guide the student’s learning:
 ![Image](https://github.com/user-attachments/assets/67c35f4d-c460-4ee6-ad5d-443b23720911)
 
 
+## **📈 Future Improvements**  
+🔹 Fine-tune RL hyperparameters for better adaptation.  
+🔹 Improve curriculum learning for gradual difficulty adjustments.   
+🔹 Extend the action space with more personalized interventions.  
+🔹 Add real-world integration with educational platforms.  
+
+## **Key Findings**
+
+- Episodes to Convergence In my project, DQN took around 500 episodes to reach stable performance
+- PPO took around 300 episodes to stabilize.
+- DQN performed well but took longer to find the optimal path.
+- PPO adapted more quickly to new starting positions.
 
 ## **🚀 Setup Instructions**  
 
@@ -78,12 +90,6 @@ Run the environment without training:
 python play.py  
 ```
 
-
-## **📈 Future Improvements**  
-🔹 Fine-tune RL hyperparameters for better adaptation.  
-🔹 Improve curriculum learning for gradual difficulty adjustments.   
-🔹 Extend the action space with more personalized interventions.  
-🔹 Add real-world integration with educational platforms.  
 
 ---
 
