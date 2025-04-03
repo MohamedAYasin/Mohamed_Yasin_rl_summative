@@ -24,16 +24,22 @@ My mission at ALU is to transform the education system of Somalia by empowering 
 The RL model tracks student progress through four states:  
 
 1️⃣ **Struggling Learner** – Needs extra support and guidance.  
+
 2️⃣ **Steady Learner** – Making gradual progress but requires assistance.  
+
 3️⃣ **Independent Learner** – Can solve problems with minimal help.  
+
 4️⃣ **Adaptive Learner** – Highly competent, applying skills across challenges.  
 
 ### **🎮 Action Space (Minimum 4 Actions)**  
 The AI tutor selects actions to guide the student’s learning:  
 
-🔹 **Action 1:** Simplify Content – Adjusts material difficulty.  
+🔹 **Action 1:** Simplify Content – Adjusts material difficulty.
+
 🔹 **Action 2:** Provide a Challenge – Increases complexity for skill growth.  
+
 🔹 **Action 3:** Offer Immediate Feedback – Gives hints or corrections.  
+
 🔹 **Action 4:** Introduce Alternative Learning Path – Uses different methods for better understanding.  
 
 ## **📈 Plots**
@@ -54,8 +60,11 @@ The AI tutor selects actions to guide the student’s learning:
 
 ## **📈 Future Improvements**  
 🔹 Fine-tune RL hyperparameters for better adaptation.  
-🔹 Improve curriculum learning for gradual difficulty adjustments.   
+
+🔹 Improve curriculum learning for gradual difficulty adjustments. 
+
 🔹 Extend the action space with more personalized interventions.  
+
 🔹 Add real-world integration with educational platforms.  
 
 ## **🚀 Setup Instructions**  
