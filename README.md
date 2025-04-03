@@ -51,7 +51,7 @@ The AI tutor selects actions to guide the student’s learning:
 
 ## **Key Findings**
 
-- Episodes to Convergence In my project, DQN took around 500 episodes to reach stable performance
+- DQN took around 500 episodes to reach stable performance
 - PPO took around 300 episodes to stabilize.
 - DQN performed well but took longer to find the optimal path.
 - PPO adapted more quickly to new starting positions.
