@@ -86,8 +86,7 @@ python play.py
 
 ## **📈 Future Improvements**  
 🔹 Fine-tune RL hyperparameters for better adaptation.  
-🔹 Improve curriculum learning for gradual difficulty adjustments.  
-🔹 Implement additional RL algorithms (SAC, TRPO) for better performance.  
+🔹 Improve curriculum learning for gradual difficulty adjustments.   
 🔹 Extend the action space with more personalized interventions.  
 🔹 Add real-world integration with educational platforms.  
 
