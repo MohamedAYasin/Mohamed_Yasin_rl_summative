@@ -13,8 +13,9 @@ My mission at ALU is to transform the education system in Somalia by empowering 
 
 ## **🔗 Links to Explore**
 
-Document: 
-Simulation Video:
+Document: [Project Report Document](https://docs.google.com/document/d/17oI4Mv7mgviua3miv2alk2-DyxYpnEJnKxDQEuukd3I/edit?tab=t.0#heading=h.a6l59bpcgjnq)
+
+- Simulation Video: [Simulation Agent Video on Loom](https://www.loom.com/share/e264ac14759a476da1a8f035ce1dfecd)
 
 ## **🧠 Reinforcement Learning in Education**  
 
