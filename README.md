@@ -1,6 +1,6 @@
 # **Reinforcement Learning for Personalized Education**  
 
-🎯 Project Mission
+## **🎯 Project Mission**
 
 My mission at ALU is to transform the education system in Somalia by empowering youth through emerging technologies. This initiative aims to build a Business Innovation Hub, bringing together entrepreneurs, innovators, leaders, and students for collaboration and creativity. This RL-powered Personalized Learning & Skill Development system adjusts dynamically to student progress, ensuring they receive tailored challenges and resources.
 
