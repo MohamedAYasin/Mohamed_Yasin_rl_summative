@@ -36,16 +36,11 @@ The AI tutor selects actions to guide the student’s learning:
 🔹 **Action 3:** Offer Immediate Feedback – Gives hints or corrections.  
 🔹 **Action 4:** Introduce Alternative Learning Path – Uses different methods for better understanding.  
 
-### **🏆 Reward Criteria**  
-✅ **Positive Rewards:** When a student successfully progresses or completes tasks.  
-❌ **Negative Rewards:** If a student struggles repeatedly without improvement or disengages.  
+## **📈 Plots**
 
-### **🔚 Terminal Conditions**  
-The learning session ends when:  
-- **Mastery Achieved:** Student reaches the **Adaptive Learner** state.  
-- **Completion:** Student finishes the learning cycle.  
-- **Persistent Struggle:** Student stays stuck in **Struggling Learner** state too long.  
-- **Disengagement:** Student stops participating.  
+![Image](https://github.com/user-attachments/assets/011c94e6-75e0-439a-8fed-525a03453884)
+
+![Image](https://github.com/user-attachments/assets/67c35f4d-c460-4ee6-ad5d-443b23720911)
 
 
 
