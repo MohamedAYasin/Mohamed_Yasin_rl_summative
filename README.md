@@ -1,6 +1,7 @@
 # **Reinforcement Learning for Personalized Education**  
 
-This project uses **Reinforcement Learning (RL)** to create an AI-powered **Personalized Learning System** that adapts dynamically to students' progress. The agent learns to **assess student understanding**, **provide tailored challenges**, and **adjust learning materials** to optimize learning outcomes.  
+🎯 Project Mission
+My mission at ALU is to transform the education system in Somalia by empowering youth through emerging technologies. This initiative aims to build a Business Innovation Hub, bringing together entrepreneurs, innovators, leaders, and students for collaboration and creativity. This RL-powered Personalized Learning & Skill Development system adjusts dynamically to student progress, ensuring they receive tailored challenges and resources.
 
  <img src="https://github.com/user-attachments/assets/81a4e848-515c-4443-96ed-a0f52aca585a" width="800">
 
