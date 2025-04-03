@@ -70,7 +70,7 @@ def play():
             action = get_exploratory_action(env)
             state.exploration_steps -= 1
             if state.exploration_steps <= 0:
-                state.exploring = False  # Switch to goal-seeking
+                state.exploring = False  
         else:
             action = get_greedy_action(env)
         
